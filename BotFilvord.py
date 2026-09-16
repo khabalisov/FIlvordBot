@@ -19,7 +19,7 @@ ATTEMPTS_SUBSCRIBED = 15
 ATTEMPTS_UNSUBSCRIBED = 10
 BONUS_ATTEMPTS_FOR_REPOST = 20
 
-DB_NAME = "game_stats.db"
+DB_NAME = "/app/data/game_stats.db"
 
 # ==================================================
 # ========== КЭШ ===================================
