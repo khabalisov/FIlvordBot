@@ -9,9 +9,9 @@ import time
 # ========== ТВОИ ДАННЫЕ ===========================
 # ==================================================
 
-GROUP_ID = 218666977
-POST_ID = 468
-ACCESS_TOKEN = "vk1.a.1S9fv5E7XHvY6uRgtvW-IyEseoh6uazKpr_UHkO-bqtTyRbYaEJh0DpmdSOpH6AMT3_YRijbkS2GB_44nAYdFEpdgJczIsXb0mu-sVihnDWdwlhaRUxVfQl9BcWJm6kzRQmlIYlrq8_bi6Op7s1_FyF74ITDVNKwwUtRD4KnxXwhrTsY0mN_YgA4yAwE9V_j7fApELJWm2dttDkxE31kqg"
+GROUP_ID = 195388835
+POST_ID = 21351
+ACCESS_TOKEN = "vk1.a.EQ4igo1JXTzr3yUVjVjAncwJuNiynaujlMz0A0tlGGPe3qN5JIRW17qFhcqBoIcxBOIYI-hSpLzCns6Ux0CD5qBPu962E09lp0JgkHq168qspp6elPFWTKuY4vjN8_cpUg3GCiPKyfgdMXFdxF61NYNs1PjihwOkswWpvetCDPOpfs2pJi6AIgsm5_T7VcZp0T8-RAa5tTn3tAkg5_i-fg"
 
 WORDS = ['Урок', 'рубин',  'мониторинг', 'корзина', 'школа', 'отзыв', 'аспирант', 'бакалавриат', 'рюкзак', 'циркуль', 'кисточка', 'ремонт', 'ножницы', 'университет', 'факультет', 'дистанция', 'адрес', 'сайт', 'факт', 'ручка', 'клей', 'пластилин', 'альбом', 'папка', 'файл', 'точилка', 'бумага', 'стикер', 'ежедневник', 'доска', 'транспортир', 'статья', 'буфет', 'учебник', 'словарь', 'атлас', 'гуашь', 'фломастер', 'крокодил', 'подушка', 'ошибка', 'внешность', 'инвентарь', 'аукцион', 'список', 'город', 'квартира', 'товар', 'штраф', 'экзамен', 'лекция', 'сессия', 'реферат', 'доклад']
 
